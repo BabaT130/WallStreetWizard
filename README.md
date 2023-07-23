@@ -1,5 +1,6 @@
 # WallStreetWizard
 Wall Street Wizard Code Repository
 
-Language: GDScript \n
+Language: GDScript
+
 Made with Godot
